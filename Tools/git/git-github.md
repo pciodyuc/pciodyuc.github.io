@@ -8,18 +8,13 @@
    git config --global user.name ”yourusername”
    git config--global user.email ”youremail”
    cat ~/.gitconfig
-   ```
-
-3. 通过命令 git init 把当前目录变成git可以管理的仓库
-
-   ```shell
-   git init
+   # 删除.ssh文件夹下的known_hosts
    ```
 
 4. 生成SSH Key
 
    ```shell
-   ssh-keygen -t rsa -C"你的邮箱"
+   ssh-keygen -t rsa -C "你的邮箱"
    # 用户主目录/.ssh/下有两个文件，id_rsa是私钥，id_rsa.pub是公钥
    ```
 
@@ -37,9 +32,9 @@
 
 1. 远程库-->本地库
 
-```shell
-git clone git@github.com:***/***.git
-```
+   ```
+   git clone git@github.com:***/***.git
+   ```
 
 2. 获取用
 
