@@ -12,7 +12,7 @@
 ### 神奇的工具
 
 * github
-* 
+* [有用的网址们](Tools\amazing-website.md)
 
 ### linux使用
 
