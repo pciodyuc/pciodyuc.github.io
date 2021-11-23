@@ -6,7 +6,6 @@
 
 * **LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search**. Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, 微软亚洲研究院&大连理工大学&中山大学&鹏城实验室 [pdf](https://arxiv.org/abs/2104.14545) [github](https://github.com/researchmm/LightTrack)
 
-* 
 
 * **Learning to Filter: Siamese Relation Network for Robust Tracking**. Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang. 广西师范大学；华侨大学；中国科学院大学；中科视拓 [pdf](https://arxiv.org/abs/2104.00829) [github](https://github.com/hqucv/siamrn)
 
@@ -16,9 +15,7 @@
 
 * **Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers**. Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff. 波士顿大学；华盛顿大学；地平线. [pdf](https://arxiv.org/abs/1912.02048) [github](https://github.com/fredfung007/snlt)
 
-* **MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation**
-
-  **and Object Tracking**. Jennifer Jang 、 Heinrich Jiang. Waymo；谷歌. [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Jang_MeanShift_Extremely_Fast_Mode-Seeking_With_Applications_to_Segmentation_and_Object_CVPR_2021_paper.pdf)
+* **MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking**. Jennifer Jang 、 Heinrich Jiang. Waymo；谷歌. [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Jang_MeanShift_Extremely_Fast_Mode-Seeking_With_Applications_to_Segmentation_and_Object_CVPR_2021_paper.pdf)
 
 * ==SiamBAN-ACM== **Learning to Fuse Asymmetric Feature Maps in Siamese Trackers**. Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen. 北京理工大学；起源人工智能研究院；MBZUAI. [pdf](https://arxiv.org/abs/2012.02776) [github](https://github.com/wencheng256/SiamBAN-ACM)
 
