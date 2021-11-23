@@ -22,7 +22,7 @@
 
 * ==SiamBAN-ACM== **Learning to Fuse Asymmetric Feature Maps in Siamese Trackers**. Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen. 北京理工大学；起源人工智能研究院；MBZUAI. [pdf](https://arxiv.org/abs/2012.02776) [github](https://github.com/wencheng256/SiamBAN-ACM)
 
-* **Graph Attention Tracking**. Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. 浙江工业大学；南京航空航天大学；阿德莱德大学. [pdf](https://arxiv.org/abs/2011.11204) [github](https://github.com/ohhhyeahhh/SiamGAT)
+* **Graph Attention Tracking**. Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen. 浙江工业大学；南京航空航天大学；阿德莱德大学. [pdf](https://arxiv.org/abs/2011.11204) [github](https://github.com/ohhhyeahhh/SiamGAT) [笔记](Tracking\papers\Graph-Attention-Tracking.md)
 
 * **STMTrack: Template-free Visual Tracking with Space-time Memory Networks**. Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. 北航. [pdf](https://arxiv.org/abs/2104.00324) [github](https://github.com/fzh0917/STMTrack)
 
