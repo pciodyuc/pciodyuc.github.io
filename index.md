@@ -16,7 +16,9 @@
 
 ### linux使用
 
-
+* [Linux使用好帮手-zsh](Linux\shell\linux-helper-zsh.md)
+* [使用conda遇到的问题汇总](Linux\cond-issues.md)
+* [解决linux网络禁用问题](Linux\internet-can-not-link.md)
 
 ### 自己工作研究相关
 
