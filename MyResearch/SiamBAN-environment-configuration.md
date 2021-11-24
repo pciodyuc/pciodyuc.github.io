@@ -14,7 +14,7 @@ conda install pytorch=1.3.1 torchvision cudatoolkit=10.1 -c pytorch
 pip3 install torch torchvision torchaudio
 pip install opencv-python
 pip install ipython
-pip instal parameter-sherpa
+pip install parameter-sherpa
 
 ```
 
