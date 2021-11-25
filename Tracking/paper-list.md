@@ -1,7 +1,7 @@
 
 # 2021年文章--
 
-### CVPR2021
+### CVPR2021111
 
 * **Rotation Equivariant Siamese Networks for Tracking**. Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. 阿姆斯特丹大学； [pdf](https://arxiv.org/abs/2012.13078) [github](https://github.com/dkgupta90/re-siamnet) [笔记](papers/CVPR2021/Rotation Equivariant Siamese Networks for Tracking.md)
 
