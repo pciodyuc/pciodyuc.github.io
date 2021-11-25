@@ -2,7 +2,7 @@
 
 ### CVPR2021
 
-* **Rotation Equivariant Siamese Networks for Tracking**. Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. 阿姆斯特丹大学； [pdf](https://arxiv.org/abs/2012.13078) [github](https://github.com/dkgupta90/re-siamnet) [笔记](\papers\Rotation Equivariant Siamese Networks for Tracking.md)
+* **Rotation Equivariant Siamese Networks for Tracking**. Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. 阿姆斯特丹大学； [pdf](https://arxiv.org/abs/2012.13078) [github](https://github.com/dkgupta90/re-siamnet) [笔记](papers\Rotation Equivariant Siamese Networks for Tracking.md)
 
 * **LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search**. Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, 微软亚洲研究院&大连理工大学&中山大学&鹏城实验室 [pdf](https://arxiv.org/abs/2104.14545) [github](https://github.com/researchmm/LightTrack)
 
