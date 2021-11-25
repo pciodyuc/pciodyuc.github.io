@@ -11,3 +11,4 @@ SiamNets：
 * 能够用一种无监督的方式估计目标的朝向变化 -> 促进在2D pose estimation任务中的使用
 * 通过对两帧之间朝向变化的限制，对跟踪施加额外的运动约束
 * 使用到的方法：group-equivariant convolutional layers comprising steerable filter
+
